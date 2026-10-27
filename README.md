@@ -90,7 +90,7 @@ I used the D3 website for examples and I replaced some of the code to check how 
 
 Website link: https://r-403.github.io/a1-ghd3/
 
-Achievements: With the limited time I had handling an overload term, I added a bit of humor of making house. An image of Dr. House from the show "House" to the right of a house made with shapes.
+Creative achievements: With the limited time I had handling an overload term, I added a bit of humor of making house. An image of Dr. House from the show "House" to the right of a house made with shapes.
 
 
 
